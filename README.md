@@ -1,2 +1,2 @@
-# GKS-Android-Project
+# GKSReminder
 Quick Reminder and Announcement app
